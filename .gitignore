@@ -5,7 +5,7 @@ FreeRTOS/
 build/
 rp2040/build/
 
-# Ignore binarie files
+# Ignore binary files
 *.uf2
 *.elf
 *.bin
