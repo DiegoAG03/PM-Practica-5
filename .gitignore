@@ -1,0 +1,8 @@
+FreeRTOS/
+build/
+rp2040/build/
+*.uf2
+*.elf
+*.bin
+*.o
+*.a
