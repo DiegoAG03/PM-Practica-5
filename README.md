@@ -1,6 +1,7 @@
 # Práctica 5: Implementación de FreeRTOS en RP2040 (DualMCU)
 
 **Autor:** Diego Ambrosio González
+
 **Asignatura:** Procesadores Multinúcleo
 
 Repositorio creado para la Práctica 5 de Procesadores Multinúcleo, el cual contiene la implementación de un sistema operativo en tiempo real (RTOS) utilizando FreeRTOS sobre la arquitectura de un microcontrolador RP2040. El objetivo principal es gestionar múltiples tareas concurrentes (lectura ADC, control PWM y comunicación serial) protegiendo los recursos compartidos mediante el uso de *Mutex*.
