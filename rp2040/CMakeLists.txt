@@ -7,14 +7,14 @@ include(freeRTOS_import.cmake)
 
 PROJECT(rp2040demos)
 
-add_subdirectory(blink)
-add_subdirectory(calc-pi)
-add_subdirectory(hello-world)
-add_subdirectory(hello-world-dual)
-add_subdirectory(i2cScan)
-add_subdirectory(tempC)
-add_subdirectory(usblink)
-add_subdirectory(neopixel)
+#add_subdirectory(blink)
+#add_subdirectory(calc-pi)
+#add_subdirectory(hello-world)
+#add_subdirectory(hello-world-dual)
+#add_subdirectory(i2cScan)
+#add_subdirectory(tempC)
+#add_subdirectory(usblink)
+#add_subdirectory(neopixel)
 
 # Experiments
 add_subdirectory(c1-temp)
