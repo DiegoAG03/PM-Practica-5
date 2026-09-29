@@ -11,13 +11,3 @@ rp2040/build/
 *.bin
 *.o
 *.a
-
-# Skip examples from repo
-rp2040/blink/
-rp2040/calc-pi/
-rp2040/hello-world/
-rp2040/hello-world-dual/
-rp2040/i2cScan/
-rp2040/neopixel/
-rp2040/tempC/
-rp2040/usblink/
