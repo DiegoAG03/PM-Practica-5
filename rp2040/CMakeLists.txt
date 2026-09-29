@@ -15,3 +15,9 @@ add_subdirectory(i2cScan)
 add_subdirectory(tempC)
 add_subdirectory(usblink)
 add_subdirectory(neopixel)
+
+# Experiments
+add_subdirectory(c1-temp)
+add_subdirectory(c2-led)
+add_subdirectory(c3-usb_temp_led)
+add_subdirectory(c4-marquee)
