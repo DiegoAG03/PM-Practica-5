@@ -26,3 +26,6 @@ neopixel/
 tempC/
 usblink/
 build/
+
+# Skip readme.MD
+readme.MD
