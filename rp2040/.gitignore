@@ -15,3 +15,14 @@
 !*.pio
 # and these subdirectories
 !*/
+
+# Skip examples and build
+blink/
+calc-pi/
+hello-world/
+hello-world-dual/
+i2cScan/
+neopixel/
+tempC/
+usblink/
+build/
